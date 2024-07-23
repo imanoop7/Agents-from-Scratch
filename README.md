@@ -31,11 +31,11 @@ Clone the repository and install the required packages
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements, bug fixes, or suggestions.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 Happy coding! If you have any questions or need further assistance, feel free to open an issue.
-
+---
 
 
