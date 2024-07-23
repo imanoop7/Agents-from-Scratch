@@ -23,13 +23,7 @@ To run this project, you need the following dependencies:
 - Jupyter Notebook
 
 ## Installation
-
-Clone the repository and install the required packages:
-
-```bash
-    git clone https://github.com/yourusername/Agents-from-Scratch.git
-    cd Agents-from-Scratch
-
+Clone the repository and install the required packages
 
 ## Project Structure
 - `agent_with_no_frameworks.ipynb`: A Jupyter notebook demonstrating the creation of an agent from scratch without using any frameworks.
