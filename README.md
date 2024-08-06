@@ -27,6 +27,7 @@ Clone the repository and install the required packages
 
 ## Project Structure
 - `agent_with_no_frameworks.ipynb`: A Jupyter notebook demonstrating the creation of an agent from scratch without using any frameworks.
+- `with_tool`-A Jupyter notebook demonstrating the creation of an agent from scratch without using any frameworks with tool calling functionalities.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements, bug fixes, or suggestions.

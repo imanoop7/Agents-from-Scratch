@@ -129,7 +129,7 @@ agent.add_tool(search_tool)
 
 
 
-# Call the web search tool
-response = agent(" what is weather today in New York")
+
+response = agent(" CALL_TOOL what is weather today in new york")
 print(response)
 
